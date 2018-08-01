@@ -1,0 +1,2 @@
+<<a>script>alert(1);<</a>/script>
+%22%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E
